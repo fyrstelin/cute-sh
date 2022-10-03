@@ -1,6 +1,6 @@
 {
   "name": "cute-sh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tagged template for executing shell commands",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
